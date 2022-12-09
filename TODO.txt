@@ -1,0 +1,90 @@
+FIX
+	-- feet off in parrying X
+	-- tweak clavicles
+	-- phantom attack (due to cancelled attack maybe)
+	-- foot tapping
+	-- 
+
+-- ATTACK
+	-- more attacks
+	-- adjust distance 
+	-- select attack X
+-- SOUND
+	-- HIT
+	-- PARRY
+	-- DODGE
+	-- KO 
+
+-- OVERLAY
+	-- POW!!!
+	-- healt/stamina 
+	-- hit logs X
+
+---- AI
+	--- find enemy
+	--- keep distance
+	--- attack
+	--- flee
+	--- stance (ready, guarding)
+
+
+--- DODGE (play dodge montage)
+
+--- PARRY (layer blend - different directions)
+	-- parry reaction X
+	-- parry directions X
+	-- parry aimed X (WIP)
+	-- parry notify state X   
+	-- parry from pose not anims
+
+
+--- COUNTER 
+	-- COUNTER MOVE (dodge + jab)
+	-- COUNTER KO
+
+
+--- KO 	-- RAGDOLL X
+	-- MONTAGE (finishers)
+	-- RAGDOLL/MONTAGE
+
+-- DEATH
+	-- RAGDOLL
+	-- MONTAGE
+
+
+--- Combo system
+
+--- Damage System
+	-- hero stats (forza, stamina, reaction, mov. speed)
+	-- game state (health / stamina / pf)
+	
+	-- limb removal/damage
+
+--- SPECIAL MOVES
+
+--- OVERLAY STATE Weapon 1h
+
+-- UI
+	health
+	stamina
+	hit/missed/parry
+	combo
+
+
+
+
+Characters
+
+	humans (remy, louise, james, megan, kate, leonard, adam, sophie, bryan, bryce, joe, josh, elizabeth, shannon, jody, martha, suzie, david, lewis)
+
+	hospital (olivia, chad, pete)
+
+	heroes (jennifer, astra, zlorp, exo gray, erika archer, exo red, eve)
+	sidekicks ( )
+	
+	villains ( maynard, morak, mutant, survivor zombie, pumpkinhulk, yaku)
+	minions (ninja, romero, mannequin, dummies, crypto, alien soldier)
+
+	police (swat, alex, gas mask,  )
+
+	other (whiteclown)

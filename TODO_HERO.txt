@@ -1,0 +1,25 @@
+Combat system
+	- receive commands (ATT_1, ATT_2, ATT_3, ATT_4)
+	- queue commands
+	- exec commands 
+		- delegate to state (weapon/combat)
+
+
+COMBAT state
+	- new idle stance
+	- 2 upper body attack [ATT_1, ATT_2]
+	- 2 full body attack  [ATT_3, ATT_4]
+	- events enable/disable collision 
+		
+
+WEAPON 1H state
+	Weapon system
+		- set weapon mesh
+		- attach weapon to back/hand 
+		- equip / unequip
+	- new idle stance
+	- 2 upper body attack [ATT_1, ATT_2]
+	- 2 full body attack  [ATT_3, ATT_4]
+	- events enable/disable collision 
+		
+	
